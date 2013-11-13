@@ -1,0 +1,61 @@
+{
+  "name": "icn",
+  "checksum": "5b939b853f94037225633b18e0ef6e7a",
+  "shortsum": "5b939",
+  "images": [
+    {
+      "name": "1",
+      "filename": "1.png",
+      "checksum": "65ce9d5305d36496efc8bc27e9ffce89",
+      "width": 50,
+      "height": 50,
+      "positionX": 0,
+      "positionY": 0
+    },
+    {
+      "name": "2",
+      "filename": "2.png",
+      "checksum": "9e17586f09c7329933d44c9b204a1921",
+      "width": 50,
+      "height": 50,
+      "positionX": 0,
+      "positionY": 52
+    },
+    {
+      "name": "3",
+      "filename": "3.png",
+      "checksum": "96d878ffc58957f902457476bcc67da0",
+      "width": 50,
+      "height": 50,
+      "positionX": 0,
+      "positionY": 104
+    },
+    {
+      "name": "4",
+      "filename": "4.png",
+      "checksum": "e18923e7da9d97c80136188930c3a4be",
+      "width": 40,
+      "height": 40,
+      "positionX": 0,
+      "positionY": 156
+    },
+    {
+      "name": "5",
+      "filename": "5.png",
+      "checksum": "229e11587b310d0057f51c17a01be0e5",
+      "width": 40,
+      "height": 40,
+      "positionX": 0,
+      "positionY": 198
+    },
+    {
+      "name": "6",
+      "filename": "6.png",
+      "checksum": "19118bdb5642be901b656828c3a1414a",
+      "width": 30,
+      "height": 30,
+      "positionX": 0,
+      "positionY": 240
+    }
+  ]
+}
